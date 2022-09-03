@@ -1,2 +1,2 @@
-# ruler-app
+# Ruler App
 Smart Ruler for GUI Analysis
